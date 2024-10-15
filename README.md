@@ -7,10 +7,11 @@ Greetings! I'm Muhammad Akmal Firmansyah, an Informatics enthusiast with a keen 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akumaaaaaa"/> </p>
 
 ### 🚀 About Me
-- ✔ I’m currently studying at **Diponegoro University**.
-- ✔ I’m currently learning at **Skilvul Bootcamp** as a **Fullstack Web Developer**.
+- ✔ I’m a Graduate in **Informatics** from **Diponegoro University**.
+- ✔ I’m a **Skilvul Bootcamp Graduate** as a **Fullstack Web Developer**.
 - ✔ I’m a **Bangkit Academy Graduate 2023 led by Google, Goto & Traveloka** as an **Android Developer**.
-- ✔ Previously, I worked as a **Fullstack Web Developer** at **PT PLN Indonesia Power Semarang PGU**.
+- ✔ Previously, I worked as a **Fullstack Web Developer** at **PT Air Batam Hilir**
+- ✔ Previously, I also worked as a **Fullstack Web Developer** at **PT PLN Indonesia Power Semarang PGU**.
 - ✔ In my spare time, I enjoy engaging in **Video Editing** and **Crafting Brochure Designs**.
   
 <br>
@@ -26,7 +27,7 @@ Greetings! I'm Muhammad Akmal Firmansyah, an Informatics enthusiast with a keen 
 - Other Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,bootstrap,react,postman,vercel" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,bootstrap,react,postman,vercel,mongodb" />
   </a>
 </p>
 <br>
