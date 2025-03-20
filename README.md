@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Akmal</h1>
-<h3 align="center">An Informatics Enthusiast from Indonesia &#127470;&#127465</h3>
-Greetings! I'm Muhammad Akmal Firmansyah, an Informatics enthusiast with a keen interest in developing Android and web applications.
+<h1 align="left">Hi there👋</h1>
+<h3 align="left">I'm Muhammad Akmal Firmansyah &#127470;&#127465</h3>
+An Informatics enthusiast with a keen interest in developing Android and web applications.
 
 <br>
 <br>
@@ -12,28 +12,44 @@ Greetings! I'm Muhammad Akmal Firmansyah, an Informatics enthusiast with a keen 
 - ✔ I’m a **Bangkit Academy Graduate 2023 led by Google, Goto & Traveloka** as an **Android Developer**.
 - ✔ Previously, I worked as a **Fullstack Web Developer** at **PT Air Batam Hilir**
 - ✔ Previously, I also worked as a **Fullstack Web Developer** at **PT PLN Indonesia Power Semarang PGU**.
-- ✔ In my spare time, I enjoy engaging in **Video Editing** and **Crafting Brochure Designs**.
+- ✔ In my spare time, I enjoy engaging in **Video Editing** and **Crafting Designs**.
   
 <br>
 
-### 🛠️ Technologies and Skills
+### 🛠️ Technologies
 - Programming Languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,php,kotlin,c" />
+    <img src="https://skillicons.dev/icons?i=php,html,js,css,kotlin&theme=dark" />
   </a>
 </p>
 
-- Other Tools:
+- Tools:
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,bootstrap,react,postman,vercel,mongodb" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman,figma,mongodb,express,nodejs,bootstrap,vite,react&perline=5&theme=dark" />
 </p>
 <br>
 
 ### 📊 Github Stats
-<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akumaaaaaa&layout=compact&theme=dracula"/460/300"></p>
+<p align="center">
+  <img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akumaaaaaa&layout=compact&theme=dracula"/460/300">
+</p>
+
+### 📊 Contributed Projects
+<div align="center">
+<a href="https://github.com/FS-30/01-Front-End-Website">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=FS-30&repo=01-Front-End-Website&theme=monokai" />
+</a>
+<a href="https://github.com/FS-30/02-FE-Eduliterate-React">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=FS-30&repo=02-FE-Eduliterate-React&theme=monokai" />
+</a>
+<a href="https://github.com/FS-30/03-BE-Eduliterate-Express">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=FS-30&repo=03-BE-Eduliterate-Express&theme=monokai" />
+</a>
+<a href="https://github.com/CS23-PS276/Mobile-Development">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=CS23-PS276&repo=Mobile-Development&theme=monokai" />
+</a>
+</div>
 
 ### 📫 Let's Connect
 I'm always open to interesting discussions and collaborations. Connect with me on:<br>
