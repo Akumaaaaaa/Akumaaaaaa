@@ -7,6 +7,7 @@ An Informatics enthusiast with a keen interest in developing Android and web app
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akumaaaaaa"/> </p>
 
 ### 🚀 About Me
+- 📚 Currently, I'm working at **PT CITRATUBINDO Tbk**, A company part of **Vallourec** Group as a **HRD Project Officer TERRIE**.
 - ✔ I’m a Graduate in **Informatics** from **Diponegoro University**.
 - ✔ I’m a **Skilvul Bootcamp Graduate** as a **Fullstack Web Developer**.
 - ✔ I’m a **Bangkit Academy Graduate 2023 led by Google, Goto & Traveloka** as an **Android Developer**.
