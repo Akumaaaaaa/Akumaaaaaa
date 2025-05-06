@@ -1,13 +1,13 @@
 <h1 align="left">Hi there👋</h1>
 <h3 align="left">I'm Muhammad Akmal Firmansyah &#127470;&#127465</h3>
-An Informatics enthusiast with a keen interest in developing Android and web applications.
+An Informatics enthusiast with a keen interest in developing Android and Web applications.
 
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akumaaaaaa"/> </p>
 
 ### 🚀 About Me
-- 📚 Currently, I'm working at **PT Citratubindo Tbk**, A company part of **Vallourec** Group as **HRD Project Officer TERRIE**.
+- 📚 Currently, I'm working at **PT Citratubindo Tbk**, A part of **Vallourec** Group as **HRD Project Officer TERRIE**.
 - ✔ I’m a Graduate in **Informatics** from **Diponegoro University**.
 - ✔ I’m a **Skilvul Bootcamp Graduate** as a **Fullstack Web Developer**.
 - ✔ I’m a **Bangkit Academy Graduate 2023 led by Google, Goto & Traveloka** as an **Android Developer**.
