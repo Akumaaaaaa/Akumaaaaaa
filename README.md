@@ -27,7 +27,7 @@ An Informatics enthusiast with a keen interest in developing Android and Web app
 
 - Tools:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman,figma,mongodb,express,nodejs,bootstrap,vite,react&perline=5&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,postman,mongodb,postgres,figma,express,bootstrap,vite,react&perline=5&theme=dark" />
 </p>
 <br>
 
