@@ -39,16 +39,16 @@ An Informatics enthusiast with a keen interest in developing Android and Web app
 ### 📊 Contributed Projects
 <div align="center">
 <a href="https://github.com/FS-30/01-Front-End-Website">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=FS-30&repo=01-Front-End-Website&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FS-30&repo=01-Front-End-Website&theme=monokai" />
 </a>
 <a href="https://github.com/FS-30/02-FE-Eduliterate-React">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=FS-30&repo=02-FE-Eduliterate-React&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FS-30&repo=02-FE-Eduliterate-React&theme=monokai" />
 </a>
 <a href="https://github.com/FS-30/03-BE-Eduliterate-Express">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=FS-30&repo=03-BE-Eduliterate-Express&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FS-30&repo=03-BE-Eduliterate-Express&theme=monokai" />
 </a>
 <a href="https://github.com/CS23-PS276/Mobile-Development">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=CS23-PS276&repo=Mobile-Development&theme=monokai" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CS23-PS276&repo=Mobile-Development&theme=monokai" />
 </a>
 </div>
 
